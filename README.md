@@ -33,7 +33,7 @@ fn('peope');
 
 ## Related projects
 
-[partial-left](https://github.com/jonschlinkert/partial-left): Returns a function with partially applied arguments that are appended to the arguments provided to… [more](https://github.com/jonschlinkert/partial-left)
+[partial-left](https://github.com/jonschlinkert/partial-left): Returns a function with partially applied arguments that are prepended to the arguments provided to… [more](https://github.com/jonschlinkert/partial-left)
 
 ## Running tests
 
